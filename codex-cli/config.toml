@@ -1,0 +1,9 @@
+model = "gpt-6.1-sol"
+model_provider = "uniroute"
+cli_auth_credentials_store = "file"
+
+[model_providers.uniroute]
+name = "UniRoute"
+base_url = "https://api.uniroute.app/v1"
+wire_api = "responses"
+requires_openai_auth = true

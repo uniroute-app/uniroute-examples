@@ -1,0 +1,7 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.uniroute.app",
+    "ANTHROPIC_AUTH_TOKEN": "YOUR_UNIROUTE_API_KEY"
+  },
+  "model": "claude-sonnet-5-5"
+}
